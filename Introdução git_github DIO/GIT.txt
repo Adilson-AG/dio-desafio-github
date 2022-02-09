@@ -1,10 +1,10 @@
 
-                             GIT / GITHUB	
-===========================================
+                            # GIT / GITHUB	
+=======================================================================
 
 Para atualizar no windows o git use este comando  >>> **git updatte-git-for-windows** 
 
-- **SHA1** >> é um conjunto de funções hash criptografadas projetadas pela NSA.
+- ** SHA1 ** >> é um conjunto de funções hash criptografadas projetadas pela NSA.
 A encriptação gera um conjunto de characteres indentificador de 40 digitos.
 
  -  **Blobs** , **trees** ,  **commits**     >>>   objetos  internos do git responsavel pelo versionamento de codigo.
