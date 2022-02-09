@@ -1,0 +1,34 @@
+
+                             GIT / GITHUB	
+===========================================
+
+Para atualizar no windows o git use este comando  >>> **git updatte-git-for-windows** 
+
+- **SHA1** >> é um conjunto de funções hash criptografadas projetadas pela NSA.
+A encriptação gera um conjunto de characteres indentificador de 40 digitos.
+
+ -  **Blobs** , **trees** ,  **commits**     >>>   objetos  internos do git responsavel pelo versionamento de codigo.
+ -
+ -  função echo 'conteudo'  | git hash-object --stdin
+ -             echo -e 'conteudo' | openssl  sha1
+ -             echo -e 'blob  9\0conteudo'  | openssl sha1
+ -  **Blob** contem metadados do git dentro dele >> 
+ -
+ - **Tree** armazenam **Blobs** 
+ -
+-====================================================
+ - Chaves **SSH** E **TOKENS**
+ - **CHAVE**  **SSH** é uma forma de conectar de forma segura no github.
+ -
+ -  **COMANDOS BÁSICOS DO GIT**
+ - git --Version 
+ - git init
+ - git add
+ - git status
+ - git commit -m " DESCRIÇÃO DO COMMIT "
+ - git remote add origin "COLOCAR LINK DO REPOSITORIO"  **USAR SHIFT+FN+INSERT PARA COLAR O CAMINHO COPIADO** 
+ - git push -U origin main
+ - git checkout -b "NOME DA BRANCH"
+
+ 
+ 
