@@ -1,5 +1,5 @@
 
-                            # GIT / GITHUB	
+                             GIT / GITHUB	
 =======================================================================
 
 Para atualizar no windows o git use este comando  >>> **git updatte-git-for-windows** 
